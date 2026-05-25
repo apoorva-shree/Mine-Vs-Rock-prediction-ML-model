@@ -5,7 +5,7 @@ The dataset contains sonar signal readings.
 - R → Rock
 - M → Mine
 
-  ## Technologies Used
+## Technologies Used
 - Python
 - NumPy
 - Pandas
