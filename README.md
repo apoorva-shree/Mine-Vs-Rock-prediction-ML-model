@@ -12,7 +12,7 @@ The dataset contains sonar signal readings.
 - Scikit-learn
 - Google Colab
 
-  project Workflow:
+# Project Workflow:
 1. Import libraries
 2. Load dataset
 3. Data preprocessing
@@ -21,13 +21,15 @@ The dataset contains sonar signal readings.
 6. Evaluate accuracy
 7. Make predictions
 
-## Machine Learning Model : Logistic Regression
+## Machine Learning Model :
+
+Logistic Regression
 
 ## Accuracy
 - Training Accuracy: 85%
 - Testing Accuracy: 83%
 
-  ## How to Run
+ ## How to Run
 
 1. Clone the repository
 2. Install dependencies
